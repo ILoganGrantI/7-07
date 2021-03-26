@@ -9,7 +9,7 @@ function click () {
   input1 = document.getElementById('input1').value
   input = parseInt(input)
   input1 = parseInt(input1)
-for (counter = 0; counter < input; counter = counter + 1) {
+  for (counter = 0; counter < input; counter = counter + 1) {
     ans = ans + input1
     ans = parseInt(ans)
   }
