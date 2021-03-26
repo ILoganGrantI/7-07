@@ -1,8 +1,7 @@
 let input = 0
 let input1 = 0
-const mul = 0
 let ans = 0
-
+let counter = 0
 document.getElementById('button').addEventListener('click', click)
 
 function click () {
